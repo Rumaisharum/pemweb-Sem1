@@ -1,0 +1,54 @@
+<!DOCTYPE>
+<html>
+ <head>
+    <title> CV Mahasiswa </title>
+  </head>
+    <body>
+      <h1 style="text-align: center;"> CV Mahasiswa </h1> 
+      <div class="containe"></div>
+        <img src= "Asset/Pas Foto terbaru 1.jpg" alt="Pas Foto terbaru 1" style="wudth:250px;height:250px;">
+
+        <div class="text"></div>
+      <h2><td> Biodata Pribadi</td></h2>
+      <p><td> Nama Lengkap : Rumaisha</td></p>
+      <p><td> NIM : 0110224087</td></p>
+          <p><td> Alamat : Jagakarsa, Jakarta Selatan </td>
+              <p><td> Email : 0110224087@student.nurulfikri.ac.id </td>
+              <p><td> Agama : Islam</td></p>
+              <p><td> Linkedin : Rum Aisha </td></p>
+              <p><td> Umur : 20 </td>
+              </tr>
+                <hr>
+              <td><h2> Pendidikan </h2></td>
+              <p><b> Tahun Ajaran 2011 - 2017</b></p>
+              <p><li><td>SD : SDIT Nature islam Ummu Habibah Boarding School</li></td>
+              <p><b> Tahun Ajaran 2017 - 2020</b></p>
+              <p><li><td>SMP : SMPIT Jaisyul Qur'an Boarding School</li></td>
+              <p><b> Tahun Ajaran 2020 - 2023 </b></p>
+              <p> <li>SMA : RQ Aisyah Binti Abu bakar </li></p>
+              <p><li>Paket C : IPS</li></p>
+                <td><h2>Organisasi</h2></td>
+                <p><b> Agustus 2021 - Juni 2022 </b></p>
+                <p><li>OSIS Bidang Kedisiplinan</p>
+                <p><b> Agustus 2022 - Juni 2023 </b></p>
+                <p><li>OSIS Bidang Kerohanian</li></p>
+                <hr>
+                <h2>Soft Skill</h2>
+                <p><li>cooperation</li></p>
+                <p><li>initiative</li></p>
+                <p><li>adaptability and flexibility</li></p>
+                <p><li>communication</li></p>
+                <h2><td>Aplikasi</td></h2>                       
+                <p><li>Canva</li></p>
+                <p><li>Adobe Photoshop</li></p>
+                <p><li>Spreadsheet</li></p>
+                <p><li>Microsoft : Word, excel, PowerPoint</li></p>
+                <div class="mb-6"></div>
+                <h2> Hobi </h2>
+                <p><li> Membaca Buku/Komik Fiksi</li></p>
+                <p><li> Menonton </li></p>
+                <p><li> Traveling</li></p>
+                <h2></h2>
+                
+   </body>
+</html>

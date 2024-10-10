@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Praktikum Web 2</title
+      </head>
+   <body>
+    <h1 style="text-align: center;">Curiculum Vitae</h1>
+    <hr>
+    <p style> Pemrograman Web 1 Pertemuan 2 Html dasar </p style="text-align: center;"</p>
+    <table border="1" cellpading="9" width="700" align="center"> 
+      <tr bgcolor="green">
+        <th width="200">Data Diri</th>
+        <th width="300">Keterangan</th>
+        <th width="200">Foto</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;">Nama</td>
+        <td style="text-align: center;">Rumaisha</td>
+        <td rowspan="5"><td><img src="https://images.unsplash.com/photo-1554205163-a785973a5c87?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwMjk4MDV8&ixlib=rb-4.0.3&q=85" width="200"></td>
+      <tr>
+        <td>Jenis Kelamin</td>
+        <td>Perempuan</td>
+        </tr>
+      <tr>
+        <td>Agama</td>
+        <td>Islam</td>
+      </tr>
+      <tr>
+        <td>Hobi</td>
+        <td>
+          <li>Nonton</li>
+          <li>Baca</li>
+        </td>
+      </tr>
+      <tr>
+        <td>Social media</td>
+        <td>
+          <a href="https://www.Instagram.com/maishasaa/">Instagram</a>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html> 

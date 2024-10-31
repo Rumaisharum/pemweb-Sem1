@@ -1,0 +1,55 @@
+h1 {
+    color: beige;
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(253, 145, 3);
+    height: 125px;
+    padding: 10px;
+}
+
+
+.desk {
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 150px;
+}
+
+.menu a {
+    margin-left: 100px;
+}
+
+.menu a:hover {
+    font-weight: bold;
+    color: rgb(253, 145, 3);
+}
+
+.isi::first-letter {
+    color: rgb(253, 145, 3);
+    font-size: 40px;
+}
+
+.promo {
+    text-align: center;
+}
+
+.eCommerce li {
+    display: inline;
+    margin: 180px;
+}
+
+.gambar {
+        text-align: center;
+}
+
+.koleksi img {
+    width: 23%;
+}
+
+body{
+   background-color: beige;
+}
